@@ -4,7 +4,9 @@
     > Mail: bingtang1021@gmail.com 
     > Created Time: Tue 22 Mar 2016 11:11:42 AM CST
  ************************************************************************/
-/* 找到两个字符序列的最大公共子序列 */
+/* 找到两个字符序列的最大公共子序列 
+ * 递归版本，算法复杂度为指数级
+ * */
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
